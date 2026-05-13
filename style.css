@@ -117,4 +117,7 @@ footer div {
 		flex-wrap: wrap;
 		gap: 20px;
 	}
+	.section1 {
+		flex-wrap: wrap;
+	}
 }
